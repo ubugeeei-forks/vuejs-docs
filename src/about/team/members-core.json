@@ -503,8 +503,9 @@
   },
   {
     "name": "ubugeeei",
-    "title": "Software Engineer",
+    "title": "Chief Engineer",
     "company": "Mates Inc.",
+    "sponsor": true,
     "companyLink": "https://github.com/mates-system",
     "projects": [
       {
